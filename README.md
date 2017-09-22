@@ -1,0 +1,2 @@
+# badthings
+Malware testing archives
