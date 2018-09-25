@@ -1,2 +1,2 @@
 # badthings
-Malware testing archives
+Malware testing archives - DO NOT OPEN
